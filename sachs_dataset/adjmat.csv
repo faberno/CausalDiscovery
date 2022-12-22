@@ -1,0 +1,12 @@
+source,Erk,Akt,PKA,Mek,Jnk,PKC,Raf,P38,PIP3,PIP2,Plcg
+Erk,False,True,False,False,False,False,False,False,False,False,False
+Akt,False,False,False,False,False,False,False,False,False,False,False
+PKA,True,True,False,True,True,False,True,True,False,False,False
+Mek,True,False,False,False,False,False,False,False,False,False,False
+Jnk,False,False,False,False,False,False,False,False,False,False,False
+PKC,False,False,True,True,True,False,True,True,False,False,False
+Raf,False,False,False,True,False,False,False,False,False,False,False
+P38,False,False,False,False,False,False,False,False,False,False,False
+PIP3,False,False,False,False,False,False,False,False,False,True,False
+PIP2,False,False,False,False,False,False,False,False,False,False,False
+Plcg,False,False,False,False,False,False,False,False,True,True,False
